@@ -1,0 +1,1 @@
+pushd %{buildroot}%{gem_dir}/gems/nanotest-0.9.4.1 && ruby -v -I.:lib test/test_nanotest.rb && popd
