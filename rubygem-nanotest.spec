@@ -4,7 +4,7 @@
 #
 Name     : rubygem-nanotest
 Version  : 0.9.4.1
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/nanotest-0.9.4.1.gem
 Source0  : https://rubygems.org/downloads/nanotest-0.9.4.1.gem
 Summary  : No detailed summary available
@@ -54,21 +54,18 @@ pushd %{buildroot}%{gem_dir}/gems/nanotest-0.9.4.1 && ruby -v -I.:lib test/test_
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/nanotest-0.9.4.1.gem
-/usr/lib64/ruby/gems/2.2.0/doc/nanotest-0.9.4.1/ri/Nanotest/assert-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/nanotest-0.9.4.1/ri/Nanotest/cdesc-Nanotest.ri
-/usr/lib64/ruby/gems/2.2.0/doc/nanotest-0.9.4.1/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/Manifest
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/examples.rb
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/gem.watchr
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/lib/nanotest.rb
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/markdown.watchr
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/nanotest.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/specs.watchr
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/test/test_helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/nanotest-0.9.4.1/test/test_nanotest.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/nanotest-0.9.4.1.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/nanotest-0.9.4.1.gem
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/Manifest
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/examples.rb
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/gem.watchr
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/lib/nanotest.rb
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/markdown.watchr
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/nanotest.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/specs.watchr
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/test/test_helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/nanotest-0.9.4.1/test/test_nanotest.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/nanotest-0.9.4.1.gemspec
