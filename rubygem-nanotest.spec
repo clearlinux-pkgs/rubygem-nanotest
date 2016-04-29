@@ -4,7 +4,7 @@
 #
 Name     : rubygem-nanotest
 Version  : 0.9.4.1
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/nanotest-0.9.4.1.gem
 Source0  : https://rubygems.org/downloads/nanotest-0.9.4.1.gem
 Summary  : No detailed summary available
